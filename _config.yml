@@ -3,7 +3,7 @@ theme: jekyll-theme-hacker
 future: true
 title: Dash Incubator
 url: "https://dashincubator.app" # the base hostname & protocol for your site
-repoBaseUrl: https://github.com/DashIncubator/dash-incubator-app 
+repoBaseUrl: https://github.com/DashIncubator/dash-incubator-app-data-upgrade 
 plugins:
   - jekyll-sitemap
 tagline: Get rewards for helping to build Dash
